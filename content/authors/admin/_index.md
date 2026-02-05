@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Computer Science
+role: Researcher at Lightspeed Studios, Tencent America
 
 # Organizations/Affiliations
 organizations:
-- name: Graphics Lab at WashU
-  url: "https://www.cse.wustl.edu/~taoju/"
+- name: Lightspeed Studios, Tencent America
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate in Computer Science. My research interests include computer graphics, geometry processing.
+bio: Researcher at Lightspeed Studios, Tencent America. My research interests include computer graphics, geometry processing.
 
 interests:
 - Geometry Processing
