@@ -55,6 +55,15 @@
     </div>
     {{ end }}
 
+    {{/* Show publication venue for publications */}}
+    {{ if and (eq $item.Type "publication") $item.Params.publication }}
+    <div class="article-metadata">
+      <span class="article-publication">
+        <i>{{ $item.Params.publication }}</i>
+      </span>
+    </div>
+    {{ end }}
+
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "talk" }}
