@@ -267,7 +267,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-168058291-1"
+  google_analytics = ""  # Temporarily disabled for Hugo compatibility
   google_tag_manager = ""
 
 ############################
